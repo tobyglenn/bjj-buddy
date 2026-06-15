@@ -1,4 +1,4 @@
 Contact: mailto:toby@tobyonfitnesstech.com
 Preferred-Languages: en
 Canonical: https://bjj-buddy.tobyonfitnesstech.com/.well-known/security.txt
-Expires: 2027-06-15T13:32:49.770Z
+Expires: 2027-06-15T14:36:23.917Z
