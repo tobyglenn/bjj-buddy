@@ -23,7 +23,21 @@
         flex: 1;
       }
     </style>
-  <link rel="icon" href="./favicon.ico" /></head>
+  <link rel="icon" href="./favicon.ico" />    <style id="web-hit-targets">
+      [role="button"],
+      [role="tab"],
+      a {
+        cursor: pointer;
+        -webkit-tap-highlight-color: transparent;
+        user-select: none;
+      }
+
+      [role="button"] *,
+      [role="tab"] * {
+        pointer-events: none;
+      }
+    </style>
+</head>
 
   <body>
     <!-- Use static rendering with Expo Router to support running without JavaScript. -->
